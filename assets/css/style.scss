@@ -1,10 +1,9 @@
 ---
 ---
 
-// This imports the default Minima theme styles first
-@import "minima";
+@import "minima";  // load the original Minima theme
 
-// Now we override some styles
+/* Your custom overrides */
 body {
   font-family: "Segoe UI", sans-serif;
   line-height: 1.6;
@@ -16,20 +15,14 @@ body {
 }
 
 h1, h2, h3 {
-  color: #1a73e8; /* Google blue */
+  color: #1a73e8;
   font-weight: 600;
 }
 
 a {
-  color: #ff5722; /* nice orange for links */
+  color: #ff5722;
   text-decoration: none;
 }
 a:hover {
   text-decoration: underline;
-}
-
-code {
-  background: #eee;
-  padding: 2px 5px;
-  border-radius: 4px;
 }
