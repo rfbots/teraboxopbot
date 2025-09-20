@@ -1,13 +1,14 @@
 # TeraBox Link to Video Player – Free Online Streaming Tool
 
-The **[TeraBox Link to Video Player](https://teraboxplyr.blogspot.com)** is a free online tool that lets you stream videos directly from your TeraBox cloud storage—without needing the TeraBox app or a premium subscription. With support for multiple formats, smooth HD playback, and mobile + web access, it’s the easiest way to watch your TeraBox links instantly.
+The TeraBox Link to Video is a free online tool that lets you stream videos directly from your TeraBox cloud storage—without needing the TeraBox app or a premium subscription. With support for multiple formats, smooth HD playback, and mobile + web access, it’s the easiest way to watch your TeraBox links instantly.
 
 ---
 
 ## 🎬 How to Use TeraBox Online Video Player
-1. Copy your TeraBox video link.  
-2. Paste it into the player input-box.  
-3. Click **Play** and stream your video instantly — no app required!  
+1. Copy your TeraBox video link.
+2. Go to **[TeraBox Link to Video Player](https://teraboxplyr.blogspot.com)**.
+3. Paste it into the player input-box.  
+4. Click **Play** and stream your video instantly — no app required!  
 
 While watching, you can adjust settings like volume, playback speed, and quality. Fast-forward and reverse controls make skipping scenes easy.
 
