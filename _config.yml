@@ -3,6 +3,5 @@ description: "Learn how to use the TeraBox Link to Video Player – Free Online 
 baseurl: "" # leave empty unless in subfolder
 url: "https://rfbots.github.io/teraboxopbot"
 theme: minima
-markdown: kramdown
 plugins:
   - jekyll-seo-tag
