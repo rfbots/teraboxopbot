@@ -32,19 +32,19 @@ While watching, you can adjust settings like volume, playback speed, and quality
 
 ## ❓ FAQs
 
-### Is the TeraBox Link to Video Player safe?
+### 1. Is the TeraBox Link to Video Player safe?
 Yes ✅. The videos stream directly from TeraBox’s cloud servers. We do not store or track your data.
 
-### How to watch TeraBox links without the app?
+### 2. How to watch TeraBox links without the app?
 Use our **[free TeraBox Player](https://teraboxplyr.blogspot.com)**. Just paste your link and play instantly.
 
-### Are there any limits on how many videos I can watch per day?
+### 3. Are there any limits on how many videos I can watch per day?
 No limits at all! You can stream and watch as many videos as you want, every day.
 
-### Do I need to log in to the TeraBox app or purchase a premium subscription?
+### 4. Do I need to log in to the TeraBox app or purchase a premium subscription?
 No, you don't need to log in or pay for any premium subscription. TeraBox is completely free to use for everyone, with no hidden costs.
 
-### Can I use it on mobile?
+### 5. Can I use it on mobile?
 Yes. Works seamlessly on Android, iOS, Windows PC, and Mac.  
 
 ---
